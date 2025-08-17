@@ -1,6 +1,6 @@
 ## 🌐 CareLink
 
-![로고](.github/profile/careLink.png.png)
+![로고](./careLink.png.png)
 
 ---
 
