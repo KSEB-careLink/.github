@@ -1,7 +1,7 @@
 ## 🌐 CareLink
 
 ![로고](./careLink.png.png)
-<img src="./careLink.png.png"  width="500" height="500">
+<img src="./careLink.png.png" width="500" height="500">
 
 ---
 
