@@ -1,8 +1,6 @@
-## 🌐 CareLink
+# 🌐 CareLink
 
-<img src="./careLink.png.png" width="500" height="500">
-
----
+<img src="./careLink.png.png" width="200" height="200">
 
 - 치매 환자와 보호자를 위한 기억 유도 · 안전 관리 플랫폼이에요
 - 환자의 기억 회상과 안전한 일상 생활을 도와요
