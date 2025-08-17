@@ -1,4 +1,4 @@
-# 🌐 CareLink
+## 🌐 CareLink
 
 <img src="./careLink.png.png" width="200" height="200">
 
@@ -9,7 +9,7 @@
 
 ---
 
-# 📁 레포지토리 구조
+## 📁 레포지토리 구조
 
 ```
 CareLink/
